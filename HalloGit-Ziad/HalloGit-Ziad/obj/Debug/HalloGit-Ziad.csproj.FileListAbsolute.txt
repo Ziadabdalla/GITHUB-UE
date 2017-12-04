@@ -1,1 +1,2 @@
 C:\Users\schueler\GITHUB-UE\HalloGit-Ziad\HalloGit-Ziad\bin\Debug\HalloGit-Ziad.exe.config
+C:\Users\schueler\Documents\Visual Studio 2015\Git\HalloGit-Ziad\HalloGit-Ziad\bin\Debug\HalloGit-Ziad.exe.config
