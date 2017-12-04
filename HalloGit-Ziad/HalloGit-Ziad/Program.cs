@@ -10,7 +10,7 @@ namespace HalloGit_Ziad
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo Git");
+            Console.WriteLine("Hallo Ziad");
             Console.ReadKey();
         }
     }
